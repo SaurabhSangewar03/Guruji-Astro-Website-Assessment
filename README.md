@@ -1,4 +1,4 @@
-# Guruji-Astro-Website-Assessment
+# Guruji-Astro-Website-Assignment
 Convert a Figma File into static Website of Guruji Astro using HTML, CSS And JS.
 
 # Demo Link
